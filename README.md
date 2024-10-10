@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <body bgcolor="sky blub">
   <meta charset="UTF-8" />
@@ -21,12 +21,6 @@
       background-color: #333;
 
     }
-    }
-    /* Animacion para el menu */
-    .topnav a:hover {
-      background-color: #ddd;
-
-
     /* Enlaces del menu */
     .topnav a {
       float: left;
