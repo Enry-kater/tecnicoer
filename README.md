@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<body bgcolor="sky BLUB">
+<body bgcolor="sky blub">
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>MI PAGINA WEED  DE P </title>
@@ -24,7 +24,7 @@
     /* Enlaces del menu */
     .topnav a {
       float: left;
-      display: block;
+      display: sky blub;
       color: #F2F2F2;
       text-align: center;
       padding: 14px 16px;
