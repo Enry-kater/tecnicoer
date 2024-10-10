@@ -34,7 +34,7 @@
     /* Animacion para el menu */
     .topnav a:hover {
       background-color: #ddd;
-      color: black
+      color: blub
     }
 
     /* Estilo para columnas */
