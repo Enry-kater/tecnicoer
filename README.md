@@ -35,7 +35,7 @@
     /* Animacion para el menu */
     .topnav a:hover {
       background-color: #ddd;
-       color:
+       color:sky blue
 
     }
 
