@@ -26,7 +26,7 @@
     .topnav a {
       float: left;
       display: black :
-      color: #F3F3F3;
+      color: #F2F2F2;
       text-align: center;
       padding: 14px 16px;
       text-decoration: none;
@@ -35,7 +35,8 @@
     /* Animacion para el menu */
     .topnav a:hover {
       background-color: #ddd;
-      light blue color
+       color: black
+
     }
 
     /* Estilo para columnas */
