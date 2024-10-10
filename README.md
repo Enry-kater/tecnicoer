@@ -21,6 +21,11 @@
       background-color: #333;
 
     }
+    }
+    /* Animacion para el menu */
+    .topnav a:hover {
+      background-color: #ddd;
+
 
     /* Enlaces del menu */
     .topnav a {
