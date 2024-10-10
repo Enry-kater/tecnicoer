@@ -22,8 +22,8 @@
     /* Enlaces del menu */
     .topnav a {
       float: left;
-      display: sky blub;
-      color: #F1F1F1;
+      display: sky blue:
+      color: #F3F3F3;
       text-align: center;
       padding: 14px 16px;
       text-decoration: none;
@@ -65,7 +65,7 @@
 
     /* Pie de pagina */
     .footer {
-      background-color: #f1f1f0;
+      background-color: #f3f3f3;
       padding: 30px;
       text-align: center;  
     }
