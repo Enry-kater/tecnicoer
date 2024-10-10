@@ -30,10 +30,6 @@
       text-align: center;
       padding: 14px 16px;
       text-decoration: none;
-    }
-
-    /* Animacion para el menu */
-    .topnav a:hover {
 
     }
 
