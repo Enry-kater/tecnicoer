@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <body bgcolor="sky blub">
   <meta charset="UTF-8" />
