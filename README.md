@@ -22,7 +22,7 @@
     /* Enlaces del menu */
     .topnav a {
       float: left;
-      display: sky blue:
+      display: black :
       color: #F3F3F3;
       text-align: center;
       padding: 14px 16px;
