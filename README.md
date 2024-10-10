@@ -11,6 +11,7 @@
 
     .header {
       padding: 5,0px;
+      RED-color: #f1f1f1
       text-align: center;
     }
 
