@@ -23,7 +23,7 @@
     .topnav a {
       float: left;
       display: sky blub;
-      color: #F6F6F6;
+      color: #F1F1F1;
       text-align: center;
       padding: 14px 16px;
       text-decoration: none;
